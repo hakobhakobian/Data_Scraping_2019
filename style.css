@@ -1,0 +1,30 @@
+body {background-color: #DBB03F;
+
+
+}
+.chemist {background-color: green;
+
+}
+#text1 {font-style: italic;
+		font-color: white;
+		text-align: left;
+
+}
+.charachters{font-style: italic;
+}
+
+#button	{background-color: #DBB03F;
+		color: black;
+		border: dashed;
+}
+.seasons{text-align: center;
+		border: solid;
+		height :140px;
+		width: 160px;
+}
+img{size: width:200px;
+		height: 200px;
+		}
+#images{text-align: center;
+
+}
